@@ -1,10 +1,5 @@
-from tkinter import *
-from tkinter import messagebox
-import sqlite3
-import pandas as pd
 import requests
 import json
-from bs4 import BeautifulSoup
 import time
 import winsound
 
